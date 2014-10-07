@@ -7,3 +7,7 @@ How is the staging area different from the working directory and the repository?
 Working directory: where you create and modify files until you think that they are worth 'committing'.
 Not sure what to say about the staging area.
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+Use git diff --staged
+
