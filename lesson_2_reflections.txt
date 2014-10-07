@@ -1,0 +1,9 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+A .git subdirectory is created.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Working directory: where you create and modify files until you think that they are worth 'committing'.
+Not sure what to say about the staging area.
+
